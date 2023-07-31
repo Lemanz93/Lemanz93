@@ -7,14 +7,12 @@
 - 🌱 Actualmente estoy aprendiendo TypeScript y React Native  
   
 
-- ❓  Sobre mi: Soy una persona curiosa y dedicada, con facilidad para el trabajo en equipo, constancia para encontrar los resultados deseados, dispuesto a aprender de otros y ayudar a aquellos que lo necesiten. Apasionado por los retos y por aprender sobre nuevas tecnologías que me puedan ayudar a crecer como desarrollador.  
+-  ❓  Sobre mi: Soy una persona curiosa y dedicada, con facilidad para el trabajo en equipo, constancia para encontrar los resultados deseados, dispuesto a aprender de otros y ayudar a aquellos que lo necesiten. Apasionado por los retos y por aprender sobre nuevas tecnologías que me puedan ayudar a crecer como desarrollador.  
   
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -28,7 +26,7 @@
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -40,7 +38,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%"> 
+</td></tr></table>  
 
 <br/>  
 
@@ -63,6 +61,10 @@ Correo: franciscoaleman1993@gmail.com
 </div>  
   
 
+<br/>  
+
+
+<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
