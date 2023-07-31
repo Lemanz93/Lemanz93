@@ -7,7 +7,7 @@
 - 🌱 Actualmente estoy aprendiendo TypeScript y React Native  
   
 
-- ❓ Sobre mi: Soy una persona curiosa y dedicada, con facilidad para el trabajo en equipo, constancia para encontrar los resultados deseados, dispuesto a aprender de otros y ayudar a aquellos que lo necesiten. Apasionado por los retos y por aprender sobre nuevas tecnologías que me puedan ayudar a crecer como desarrollador.  
+- ❓  Sobre mi: Soy una persona curiosa y dedicada, con facilidad para el trabajo en equipo, constancia para encontrar los resultados deseados, dispuesto a aprender de otros y ayudar a aquellos que lo necesiten. Apasionado por los retos y por aprender sobre nuevas tecnologías que me puedan ayudar a crecer como desarrollador.  
   
 
 <br/>  
@@ -40,16 +40,12 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td><td valign="top" width="33%"> 
 
 <br/>  
 
 
-## Connect with me  
+## No dudes en contactarme!  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/francisco-javier-aleman-romero/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
